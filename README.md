@@ -14,4 +14,4 @@ Analytics are performed in SQL and data are visualized in Tableau.
 
 Dashboard on Tableau Public: https://tabsoft.co/3BM4jHm
 
-(Click the "Full Screen" button for a better view. This will allow you to see the content in its entirety.)
+(Click the "Full Screen" button on the bottom right for a better view. This will allow you to see the content in its entirety.)
