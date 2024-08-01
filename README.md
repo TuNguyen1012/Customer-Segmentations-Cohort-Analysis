@@ -12,6 +12,6 @@ Analytics are performed in SQL and data are visualized in Tableau.
 
 ## Dashboard: 
 
-Dashboard on Tableau Public: https://tabsoft.co/3BM4jHm
+Dashboard on Tableau Public:(https://public.tableau.com/views/CustomerSegmentationAnalysis_16844360621180/CohortAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 (Click the "Full Screen" button on the bottom right for a better view. This will allow you to see the content in its entirety.)
