@@ -8,7 +8,7 @@
 
 ## Process: 
 
-Analytics are performed in SQL and data are visualized in Tableau. 
+The analytics are performed using SQL, while the data is visualized using Tableau.
 
 ## Dashboard: 
 
