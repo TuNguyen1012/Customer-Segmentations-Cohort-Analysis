@@ -12,6 +12,6 @@ The analytics are performed using SQL, while the data is visualized using Tablea
 
 ## Dashboard: 
 
-Dashboard on Tableau Public:(https://public.tableau.com/views/CustomerSegmentationAnalysis_16844360621180/CohortAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Dashboard on Tableau Public:https://public.tableau.com/views/CustomerSegmentationAnalysis_16844360621180/RFMSegmentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 (Click the "Full Screen" button on the bottom right for a better view. This will allow you to see the content in its entirety.)
